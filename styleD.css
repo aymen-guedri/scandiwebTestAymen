@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika:wght@400;700&display=swap');
+
+.msg{
+    
+    color: green;
+    font-size: 2rem;
+    padding-top: 100px;
+    font-family: 'Andika', sans-serif;
+}
